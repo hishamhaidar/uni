@@ -1,1 +1,9 @@
-
+<!ELEMENT play (author,title,act*)><!-- * means 0 or more can be used-->
+<!ELEMENT author (#PCDATA)><!--miust contain text only-->
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT act (title,scene*)>
+<!ELEMENT scene (title,(speech|stagedir)*)>  <!--we can write either speech or stagedir at any sequence-->
+<!ELEMENT speech (speaker,(line|stagedir)*)>
+<!ELEMENT stagedir (#PCDATA)>
+<!ELEMENT line (#PCDATA|stagedir)*>  
+<!ELEMENT speaker (#PCDATA)>
