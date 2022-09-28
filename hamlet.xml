@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE play SYSTEM "play.dtd">
+
 <!--  // Source: http://shakespeare.mit.edu/hamlet/ -->
 <play>
   
@@ -58,7 +60,7 @@
             </speech>
             <speech>
                 <speaker>HAMLET</speaker>
-                    Hillo, ho, ho, boy! come, bird, come.
+                    <line>Hillo, ho, ho, boy! come, bird, come.</line>
             </speech>
             
         </scene>
