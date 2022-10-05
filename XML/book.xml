@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<?xml-stylesheet type="text/css" href="book.css"?>
+<!-- Source: http://www.gutenberg.org/ebooks/521 -->
+<!-- Footnotes were added by Péter Jeszenszky. --> 
+<book>
+	<author>Daniel Defoe</author>
+	<title>The Life and Adventures of Robinson Crusoe</title>
+	<chapter>
+		<title>Start in Life</title>
+		<para>I was born in the year 1632, in the city of York, of a good family, though not of that
+			country, my father being a foreigner of Bremen, who settled first at Hull. He got a good
+			estate by merchandise, and leaving off his trade, lived afterwards at York, from whence
+			he had married my mother, whose relations were named Robinson, a very good family in
+			that country, and from whom I was called Robinson Kreutznaer; but, by the usual
+			corruption of words in England, we are now called&#x2014;nay we call ourselves and write
+			our name&#x2014;Crusoe; and so my companions always called me.</para>
+		<para>I had two elder brothers, one of whom was lieutenant-colonel to an English regiment of
+			foot in Flanders, formerly commanded by the famous Colonel Lockhart<footnote>Sir William
+				Lockhart of Lee (1621&#x2013;1675)</footnote>, and was killed at the battle near
+				Dunkirk<footnote>The Battle of the Dunes, also known as the Battle of Dunkirk, was
+				fought on 14 June 1658.</footnote> against the Spaniards. What became of my second
+			brother I never knew, any more than my father or mother knew what became of me.</para>
+		<para>Being the third son of the family and not bred to any trade, my head began to be
+			filled very early with rambling thoughts. My father, who was very ancient, had given me
+			a competent share of learning, as far as house-education and a country free school
+			generally go, and designed me for the law; but I would be satisfied with nothing but
+			going to sea; and my inclination to this led me so strongly against the will, nay, the
+			commands of my father, and against all the entreaties and persuasions of my mother and
+			other friends, that there seemed to be something fatal in that propensity of nature,
+			tending directly to the life of misery which was to befall me.</para>
+		<!-- ... -->
+	</chapter>
+	<chapter>
+		<title>Slavery and Escape</title>
+		<para>That evil influence which carried me first away from my father's house&#x2014;which
+			hurried me into the wild and indigested notion of raising my fortune, and that impressed
+			those conceits so forcibly upon me as to make me deaf to all good advice, and to the
+			entreaties and even the commands of my father&#x2014;I say, the same influence, whatever
+			it was, presented the most unfortunate of all enterprises to my view; and I went on
+			board a vessel bound to the coast of Africa; or, as our sailors vulgarly called it, a
+			voyage to Guinea.</para>
+		<!-- ... -->
+	</chapter>
+	<chapter>
+		<title>Wrecked on a Desert Island</title>
+		<para>After this stop, we made on to the southward continually for ten or twelve days,
+			living very sparingly on our provisions, which began to abate very much, and going no
+			oftener to the shore than we were obliged to for fresh water. My design in this was to
+			make the river Gambia or Senegal, that is to say anywhere about the Cape de Verde, where
+			I was in hopes to meet with some European ship; and if I did not, I knew not what course
+			I had to take, but to seek for the islands, or perish there among the negroes. I knew
+			that all the ships from Europe, which sailed either to the coast of Guinea or to Brazil,
+			or to the East Indies, made this cape, or those islands; and, in a word, I put the whole
+			of my fortune upon this single point, either that I must meet with some ship or must
+			perish.</para>
+		<para>When I had pursued this resolution about ten days longer, as I have said, I began to
+			see that the land was inhabited; and in two or three places, as we sailed by, we saw
+			people stand upon the shore to look at us; we could also perceive they were quite black
+			and naked. I was once inclined to have gone on shore to them; but Xury was my better
+			counsellor, and said to me, &#8220;No go, no go.&#8221; However, I hauled in nearer the
+			shore that I might talk to them, and I found they ran along the shore by me a good way.
+			I observed they had no weapons in their hand, except one, who had a long slender stick,
+			which Xury said was a lance, and that they could throw them a great way with good aim;
+			so I kept at a distance, but talked with them by signs as well as I could; and
+			particularly made signs for something to eat: they beckoned to me to stop my boat, and
+			they would fetch me some meat. Upon this I lowered the top of my sail and lay by, and
+			two of them ran up into the country, and in less than half-an-hour came back, and
+			brought with them two pieces of dried flesh and some corn, such as is the produce of
+			their country; but we neither knew what the one or the other was; however, we were
+			willing to accept it, but how to come at it was our next dispute, for I would not
+			venture on shore to them, and they were as much afraid of us; but they took a safe way
+			for us all, for they brought it to the shore and laid it down, and went and stood a
+			great way off till we fetched it on board, and then came close to us again.</para>
+		<!-- ... -->
+	</chapter>
+	<!-- ... -->
+</book>
