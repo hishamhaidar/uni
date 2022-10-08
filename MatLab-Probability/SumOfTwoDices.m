@@ -8,3 +8,4 @@ end
 for i=2:12
     fprintf("P(%d) = %.4f\n",i,P(i));
 end
+bar(P);
