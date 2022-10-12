@@ -1,0 +1,69 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "Schema for api chuck",
+    "description": "The chuck Norris joke api",
+    "definitions": {
+        "categories": {
+            "title":"Schema for array of cat",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 0,
+            "uniqueItems": true
+        },
+        "joke":{
+            "title":"Schema for single joke"
+            ,"type":"object",
+            "properties": {
+                "categories":{
+                   " $ref":"#/definitions/categories"
+                },
+                "created_at":{
+                    "type":"string"
+                },
+                "icon_url":{
+                    "const": "https://assets.chucknorris.host/img/avatar/chuck-norris.png"
+
+                },
+                "id":{
+                    "type":"string"
+                }
+                ,
+                "updated_at":{
+                    "type":"string"
+                }
+                ,
+                "url":{
+                    "type":"string",
+                    "format": "uri",
+                    "pattern": "^https://api.chucknorris.io/jokes/"
+                },
+                "values":{
+                    "type":"string"
+                }
+            },"required": ["categories","created_at","icon_url","id","updated_at","url","value"]
+        },
+        "jokes":{
+            "title": "list of jokes",
+            "type":"object",
+            "properties": {
+                "total":{
+                    "type":"integer",
+                    "minimum": 0
+                },
+                "result":{
+                    "type":"array",
+                    "items": {
+                        "$ref": "#/definitions/jokes"
+                    }
+                }
+            },"required": ["total","result"]
+        }
+    },
+    "oneOf": [
+       {"$ref":"#/definitions/categories"},
+        {"$ref":"#/definitions/joke"},
+       { "$ref": "#/definitions/jokes"}
+    ]
+}
